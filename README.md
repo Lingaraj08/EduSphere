@@ -1,5 +1,38 @@
+Deployed in vercel - https://edusphere-mocha.vercel.app/
+
+
 
 ## Project info
+
+# 🧠 EduSphere – AI-Powered Personalized Tutor
+
+EduSphere is an interactive AI tutor designed to provide personalized learning experiences based on each learner’s age, learning style, emotional state, and cultural background.
+
+---
+
+## 📚 How It Works
+
+### 1. Ask a Question
+Learners can ask any academic or conceptual question. The AI tutor understands their age, preferred learning method, emotional state (e.g., confused, excited), and even cultural background to generate the most suitable explanation.
+
+### 2. Personalized AI Response
+Each answer includes:
+- A clear explanation adapted to the user
+- A simplified version for easier understanding
+- A cultural connection when possible
+- Encouragement based on the user’s mood
+- Suggested next learning steps
+
+### 3. Adaptive Quizzes
+The system also generates dynamic quiz questions tailored to the learner's difficulty level, past performance, and topic preferences — all in real time.
+
+### 4. Visual and Interactive UI
+All interactions happen through a responsive, zoomable interface with gradient visuals and engaging UI elements for all age groups.
+
+---
+
+EduSphere makes education truly personal, turning every learning moment into an adaptive and empowering experience.
+
 ## How can I edit this code
 
 **Use your preferred IDE**
